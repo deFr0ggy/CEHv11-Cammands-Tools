@@ -1,7 +1,7 @@
 # WordPress Scanning
 > https://wpvulns.com/
 
-> API: Ca5WBkEbHBt4aaBsR53liSNYseXRiBEtjzc13XCWT10
+> API: <Register and Get Your API>
 
 #### Simple Scan
 ```
