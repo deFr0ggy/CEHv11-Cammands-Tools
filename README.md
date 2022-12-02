@@ -1,19 +1,23 @@
 I have compiled this repo to keep track of all the tools covered in CEH v11. Also, this repo contains the commands taught in the CEH v11 Labs. Important ones are covered as below. 
 
+> https://github.com/deFr0ggy
+> https://linkedin.com/in/KamranSaifullah
+> https://thincscorp.com
+
 # CEH v11 Commands
 
 1. [Android Hacking](Android.md)
 2. [Cryptography](Cryptography.md)
-3. [DOSAttacks](DOS Attacks.md)
+3. [DOS Attacks](DOSAttacks.md)
 4. [Enumeration](Enumerations.md)
-5. [HackingCloud](Hacking Cloud.md)
+5. [Hacking Cloud](HackingCloud.md)
 6. [HashCat](Hashcat.md)
 7. [Hydra](Hydra.md)
-8. [JohnTheRipper](JohnTheRipper.md)
+8. [John The Ripper](JohnTheRipper.md)
 9. [Scanning](Scanning.md)
-10. [SessionHijacking](Session Hijacking.md)
-11. [SQLInjections](SQL Injection.md)
-12. [WordPressHacking](WordPress Scanning.md)
+10. [Session Hijacking](SessionHijacking.md)
+11. [SQL Injections](SQLInjection.md)
+12. [WordPress Hacking](WordPressScanning.md)
 
 # CEH v11 Tools
 
