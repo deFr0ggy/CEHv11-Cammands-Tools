@@ -4,16 +4,16 @@ I have compiled this repo to keep track of all the tools covered in CEH v11. Als
 
 1. [Android Hacking](Android.md)
 2. [Cryptography](Cryptography.md)
-3. [DOS Attacks](DOS Attacks.md)
+3. [DOSAttacks](DOS Attacks.md)
 4. [Enumeration](Enumerations.md)
-5. [Hacking Cloud](Hacking Cloud.md)
+5. [HackingCloud](Hacking Cloud.md)
 6. [HashCat](Hashcat.md)
 7. [Hydra](Hydra.md)
-8. [John The Ripper](JohnTheRipper.md)
+8. [JohnTheRipper](JohnTheRipper.md)
 9. [Scanning](Scanning.md)
-10. [Session Hijacking](Session Hijacking.md)
-11. [SQL Injections](SQL Injection.md)
-12. [WordPress Hacking](WordPress Scanning.md)
+10. [SessionHijacking](Session Hijacking.md)
+11. [SQLInjections](SQL Injection.md)
+12. [WordPressHacking](WordPress Scanning.md)
 
 # CEH v11 Tools
 
