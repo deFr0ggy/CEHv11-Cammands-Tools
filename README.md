@@ -1,8 +1,8 @@
 I have compiled this repo to keep track of all the tools covered in CEH v11. Also, this repo contains the commands taught in the CEH v11 Labs. Important ones are covered as below. 
 
-> https://github.com/deFr0ggy
-> https://linkedin.com/in/KamranSaifullah
-> https://thincscorp.com
+- https://github.com/deFr0ggy
+- https://linkedin.com/in/KamranSaifullah
+- https://thincscorp.com
 
 # CEH v11 Commands
 
